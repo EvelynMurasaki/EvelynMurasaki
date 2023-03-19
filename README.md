@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 Atualmente estou trabalhando em Segurança da Informação, no Red Team
-- 🌱 Estou aprendendo sobre segurança Mobile (iOS e Android)
+- 🌱 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, Desenvolvimento Seguro e entre outros.
 
 ### O que podem encontrar por aqui
 - [Resoluções de CTFs](https://github.com/EvelynMurasaki/CTFs-Resolucoes)
