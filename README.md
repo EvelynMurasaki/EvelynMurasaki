@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 🌱 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, Desenvolvimento Seguro e entre outros.
 
 ### O que podem encontrar por aqui
+- Materiais para estudos e dicas
 - [Resoluções de CTFs](https://github.com/EvelynMurasaki/CTFs-Resolucoes)
+- [Scripts](https://github.com/EvelynMurasaki/automacao)
 
 
 
