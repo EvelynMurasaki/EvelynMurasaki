@@ -50,3 +50,8 @@ Here are some ideas to get you started:
   <img align="center" alt="PowerShell" height="30" width="80" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   
 </div>
+
+
+Cobrinha
+
+! [Snake animation](https://github.com/EvelynMurasaki)
