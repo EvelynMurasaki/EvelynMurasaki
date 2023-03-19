@@ -51,4 +51,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![Snake Animation](https://github.com/EvelynMurasaki)
+![snake gif]((https://github.com/EvelynMurasaki)/blob/output/github-contribution-grid-snake.svg)
