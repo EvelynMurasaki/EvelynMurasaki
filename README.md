@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 Cobrinha
 
-! [Snake animation](https://github.com/EvelynMurasaki)
+![Snake animation](https://github.com/EvelynMurasaki)
