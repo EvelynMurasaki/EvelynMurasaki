@@ -51,4 +51,4 @@ Here are some ideas to get you started:
   
 </div>
 
-[Snake animation](https://github.com/EvelynMurasaki)
+![Snake Animation](https://github.com/EvelynMurasaki)
