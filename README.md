@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 Atualmente estou trabalhando em Segurança da Informação, no Red Team
-- 🌱 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, Desenvolvimento Seguro e entre outros.
+- 🔭 Estou trabalhando com Segurança da Informação, no Red Team
+- 🌱 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, Desenvolvimento Seguro, entre outros.
 
 ### O que podem encontrar por aqui
 - Materiais para estudos e dicas
