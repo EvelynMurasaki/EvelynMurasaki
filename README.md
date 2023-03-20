@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 Estou trabalhando com Segurança da Informação, no Red Team
+- 🔭 Trabalho com Segurança da Informação, no time de Red Team.
 - 🌱 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, Desenvolvimento Seguro, entre outros.
+- 🌱 Melhorando minhas habilidades e conhecimentos em algumas linguagens de programação para criação de scripts e automatizar processos, como Python.
 
 ### O que podem encontrar por aqui
 - Materiais para estudos e dicas
