@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 - 💻 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, Desenvolvimento Seguro, entre outros.
 - 📚 Melhorando minhas habilidades e conhecimentos em algumas linguagens de programação para criação de scripts e automatizar processos, como Python.
 
-### O que podem encontrar por aqui
-- Materiais para estudos e dicas
-- [Resoluções de CTFs](https://github.com/EvelynMurasaki/CTFs-Resolucoes)
-- [Scripts](https://github.com/EvelynMurasaki/automacao)
+### O que pode encontrar por aqui
+- Materiais para estudos e dicas de Segurança;
+- [Resoluções de CTFs](https://github.com/EvelynMurasaki/CTFs-Resolucoes);
+- [Scripts](https://github.com/EvelynMurasaki/automacao);
+- Projetos de estudos.
 
 
 
-### Minhas Redes Sociais
+### Minha Rede Social
 <p align="left">  
     <a href="https://www.linkedin.com/in/evelyn-mrsk/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
     </a>
