@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 📚 Melhorando minhas habilidades e conhecimentos em algumas linguagens de programação para criação de scripts e automatizar processos, como Python.
 
 ### O que pode encontrar por aqui
-- Materiais para estudos e dicas de Segurança;
+- Materiais para estudos e dicas de Segurança da Informação;
 - [Resoluções de CTFs](https://github.com/EvelynMurasaki/CTFs-Resolucoes);
 - [Scripts](https://github.com/EvelynMurasaki/automacao);
-- Projetos de estudos.
+- [Projetos de estudos](https://github.com/EvelynMurasaki/Projetos-Estudos).
 
 
 
