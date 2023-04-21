@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 - [Projetos de estudos](https://github.com/EvelynMurasaki/Projetos-Estudos).
 
 
-
+<!--
 ### Minha Rede Social
 <p align="left">  
-    <a href="https://www.linkedin.com/in/evelyn-mrsk/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
-    </a>
+    <a href="https://www.linkedin.com/in/usuario-aqui/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
+    </a> -->
     
  ### Um pouco das tecnologias que tenho conhecimento
  
