@@ -35,7 +35,7 @@ https://cdn3.iconfinder.com/data/icons/social-media-2285/300/Medium-Logo-Black-R
     
  ### Algumas dicas no Medium
 <p align="left">
-    <a href="https://medium.com/@pentest.miranda"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/300/Medium-Logo-Black-RGB_300x80-512.png" width="82" height="82"/>
+    <a href="https://medium.com/@pentest.miranda"><img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" width="42" height="42"/>
      </a>
  
  ### Um pouco das tecnologias que tenho conhecimento
