@@ -26,17 +26,21 @@ Here are some ideas to get you started:
 - [Scripts](https://github.com/EvelynMurasaki/automacao);
 - [Projetos de estudos](https://github.com/EvelynMurasaki/Projetos-Estudos).
 
-
 <!--
 ### Minha Rede Social
 <p align="left">  
     <a href="https://www.linkedin.com/in/usuario-aqui/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
+https://cdn3.iconfinder.com/data/icons/social-media-2285/300/Medium-Logo-Black-RGB_300x80-512.png
     </a> -->
     
+ ### Algumas dicas no Medium
+<p align="left">
+    <a href="https://medium.com/@pentest.miranda"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/300/Medium-Logo-Black-RGB_300x80-512.png" width="82" height="82"/>
+     </a>
+ 
  ### Um pouco das tecnologias que tenho conhecimento
  
  <div style="display: inline_block"><br>
- 
   <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
