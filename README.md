@@ -31,7 +31,7 @@ EN
 - [Resoluções de CTFs](https://github.com/EvelynMurasaki/CTFs-Resolucoes);
 - [Scripts](https://github.com/EvelynMurasaki/automacao);
 - [Projetos de estudos](https://github.com/EvelynMurasaki/Projetos-Estudos).
-- [POC's de CVE's](https://github.com/EvelynMurasaki/POC-CVE/tree/main/POC's%20CVE's).
+- [POC's de CVE's](https://github.com/EvelynMurasaki/POC-CVE).
 
 <!--
 ### Minha Rede Social
