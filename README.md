@@ -28,7 +28,7 @@ EN
 
 ### O que pode encontrar por aqui
 - [Materiais e dicas de estudos para Segurança da Informação](https://github.com/EvelynMurasaki/Dicas-Materiais);
-- [Resoluções de CTFs](https://github.com/EvelynMurasaki/CTFs-Resolucoes);
+- [Resoluções de CTFs/Writeup](https://github.com/EvelynMurasaki/CTFs-Resolucoes);
 - [Scripts](https://github.com/EvelynMurasaki/automacao);
 - [Projetos de estudos](https://github.com/EvelynMurasaki/Projetos-Estudos).
 - [POC's de CVE's](https://github.com/EvelynMurasaki/POC-CVE).
