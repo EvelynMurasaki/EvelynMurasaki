@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 PT-BR
 - 🏢 Trabalho com Segurança da Informação, no time de Red Team.
-- 💻 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, Desenvolvimento Seguro, entre outros.
+- 💻 Estudando segurança em: Mobile (iOS e Android), Wi-Fi Hacking, Pentest Web, Infraestrutura, entre outros.
 - 📚 Melhorando minhas habilidades e conhecimentos em algumas linguagens de programação para criação de scripts e automatizar processos.
 
 EN
 
 - 🏢 I work in Information Security, specifically in the Red Team.
-- 💻 I'm studying security in various areas, such as Mobile (iOS and Android), Wi-Fi Hacking, Web Pentesting, Infrastructure, Secure Development, among others.
+- 💻 I'm studying security in various areas, such as Mobile (iOS and Android), Wi-Fi Hacking, Web Pentesting, Infrastructure, among others.
 - 📚 I'm improving my skills and knowledge in programming languages to create scripts and automate processes.
 
 ### O que pode encontrar por aqui
