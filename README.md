@@ -40,7 +40,10 @@ EN
     <a href="https://www.linkedin.com/in/usuario-aqui/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
 https://cdn3.iconfinder.com/data/icons/social-media-2285/300/Medium-Logo-Black-RGB_300x80-512.png
     </a> -->
-    
+ ### TryHackMe
+ 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Murasakie.png" alt="TryHackMe">
+   
  ### Algumas dicas no Medium
 <p align="left">
     <a href="https://medium.com/@pentest.miranda"><img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" width="42" height="42"/>
