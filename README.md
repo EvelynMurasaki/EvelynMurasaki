@@ -43,6 +43,7 @@ https://cdn3.iconfinder.com/data/icons/social-media-2285/300/Medium-Logo-Black-R
  ### TryHackMe
  
   <img src="https://tryhackme-badges.s3.amazonaws.com/Murasakie.png" alt="TryHackMe">
+
    
  ### Algumas dicas no Medium
 <p align="left">
