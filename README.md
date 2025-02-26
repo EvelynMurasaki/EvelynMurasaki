@@ -11,11 +11,6 @@ EN
 - 💻 I'm studying security in various areas, such as Mobile (iOS and Android), Wi-Fi Hacking, Web Pentesting, Infrastructure, among others.
 - 📚 I'm improving my skills and knowledge in programming languages to create scripts and automate processes.
 
-
- ### TryHackMe
- 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Murasakie.png" alt="TryHackMe">
-
    
  ### Algumas dicas no Medium
 <p align="left">
